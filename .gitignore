@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.private.json
+*.local.json
+.env
+.env.*
+*.key
+*.pem
+runtime/
+backups/
+*.db
+*.db-*
+*.sqlite*
+*.log
+proxy-config.yaml
+state.json
